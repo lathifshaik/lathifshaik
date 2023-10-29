@@ -93,7 +93,7 @@ Hello there! 👋 I'm Abdul Lathif Shaik, a passionate computer science student 
 ## 🎸 Hobbies
 
 - Playing Guitar, Reading Books, Badminton
-... (Add your other hobbies in a similar format)
+- Poetry , Podcating
 
 ---
 
