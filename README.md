@@ -8,10 +8,10 @@ Hello there! 👋 I'm Abdul Lathif Shaik, a passionate computer science student 
 Improving cloud-based solutions and implementing microservices architecture.
 
 👯 **Looking to collaborate on:**  
-Fullstack projects.
+Fullstack projects & Machine Learning Projects
 
 🌱 **Currently learning:**  
-Advanced AWS Services and GraphQL.
+Node and Deep Learning
 
 💬 **Ask me about:**  
 JavaScript, React, python,Django, Flask, MongoDb AWS, and any general software development questions.
