@@ -6,8 +6,6 @@ Hello there! 👋 I'm Abdul Lathif Shaik, a passionate computer science student 
 [![GitHub lathifshaik](https://img.shields.io/github/followers/lathifshaik?label=follow&style=social)](https://github.com/lathifshaik)
 [![Email: i.lathifshaik@gmail.com](https://img.shields.io/badge/Email-i.lathifshaik%40gmail.com-red)](mailto:i.lathifshaik@gmail.com)
 
-
-
 ## 🔧 Skills & Technologies
 
 - **Languages:** 
@@ -46,55 +44,3 @@ Hello there! 👋 I'm Abdul Lathif Shaik, a passionate computer science student 
   ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=Docker)
   ![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=Git)
   ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub)
-
-## 🌱 Projects
-
-### [Video Search & Upload Platform](https://github.com/lathifshaik/Serch_video_with_subtitles)
-![AWS DynamoDB](https://img.shields.io/badge/-DynamoDB-lightblue?style=flat-square&logo=Amazon-AWS)
-![AWS S3](https://img.shields.io/badge/-S3-blue?style=flat-square&logo=Amazon-AWS)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) 
-![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=Django)
-- **Duration:** Aug 2023 - September 2023
-- Developed a platform for users to upload videos and search via keywords in subtitles.
-- Implemented features like user-friendly video upload, automatic subtitles extraction, and keyword-based search.
-
-### [PhoneBook](https://github.com/lathifshaik/PhoneBook)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=MongoDB)
-- **Duration:** Jul 2023 - August 2023
-- Crafted a web-based contact management system to optimize user interactions.
-- Enabled swift selection and dialing of contacts through a single-action interface.
-
-### [Balance Checker](https://github.com/lathifshaik/balance_checker)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=Django)
-![Jinja](https://img.shields.io/badge/-Jinja-blue?style=flat-square&logo=Jinja)
-- **Duration:** May 2023 - Jun 2023
-- Developed a user-centric Python web application to fetch and display balance information.
-- Integrated etherscan.io API for accurate data retrieval, ensuring up-to-date balance insights.
-
-
-
-## 📜 Certifications
-
-- [**JPMorgan Chase & Co Software Engineering Virtual Experience Program**](https://www.theforage.com/), Forage - July 2023
-- [**CS50X Introduction to Computer Science**](https://online-learning.harvard.edu/course/cs50-introduction-computer-science), Harvard University - Jul 2021, MA, USA
-- [**CS50P Introduction to Programming with Python**](https://cs50.harvard.edu/x/2022/), Harvard University - Jun 2022, MA, USA
-- [**Elements of AI (Introduction to AI)**](https://www.elementsofai.com/), University of Helsinki - Feb 2022, Finland
-- [**Google Cloud Big Data and Machine Learning Fundamentals**](https://cloud.google.com/training), Google Cloud Training Online - Aug 2022
-- [**Natural Language Processing Specialization**](https://www.coursera.org/specializations/natural-language-processing), Coursera - Apr 2023
-
-## 🏆 Achievements
-
-- Successfully solved over 500 coding challenges.
-- Earned the Amazon DeepRacer scholarship.
-
-## 🎸 Hobbies
-
-- Playing Guitar, Reading Books, Badminton
-- Poetry , Podcating
-
----
-
-⭐️ From [lathifshaik](https://github.com/lathifshaik)
