@@ -21,11 +21,11 @@ I love creating content.
 
 ## 🌐 Socials
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abdullathifsk/)
-- [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/lathifshaik)
-- [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/your_twitter)
-- [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram)](https://www.instagram.com/your_instagram)
-- [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/your_profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abdullathifsk/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/lathifshaik)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/latifshaikk)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram)](https://www.instagram.com/your_instagram)
+[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/your_profile)
 
 ## 💻 Tech Stack
 
