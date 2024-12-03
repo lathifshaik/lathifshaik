@@ -1,73 +1,92 @@
-# Abdul Lathif Shaik
+<h1 align="left">Hey 👋 What's up?</h1>
 
-Hello there! 👋 I'm Abdul Lathif Shaik, a passionate computer science student with a keen interest in web development, data science, and cloud computing.
+###
 
-## 💫 About Me
+<p align="left">My name is Abdul Lathif Shaik, and I'm a recent computer science graduate passionate about web development, data science, and cloud computing. I love experimenting with tech and building impactful projects.</p>
 
-🔭 **Currently working on:**  
-Improving cloud-based solutions and implementing microservices architecture.
+###
 
-👯 **Looking to collaborate on:**  
-Fullstack projects & Machine Learning Projects
+<h2 align="left">About me</h2>
 
-🌱 **Currently learning:**  
-Node and Deep Learning
+###
 
-💬 **Ask me about:**  
-JavaScript, React, python,Django, Flask, MongoDb AWS, and any general software development questions.
+<p align="left">✨ Creating bugs since my first Hello World!<br>📚 I'm currently diving deeper into Node.js and Deep Learning.<br>🎯 Goals: To become a versatile Software Developer developer and make meaningful contributions in machine learning and data science.<br>🎲 Fun fact: I enjoy creating tech content and exploring the latest in software development.</p>
 
-⚡ **Fun fact:**  
-I love creating content.
+###
 
-## 🌐 Socials
+<h2 align="left">I code with</h2>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abdullathifsk/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/lathifshaik)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/latifshaikk)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram)](https://www.instagram.com/your_instagram)
-[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/your_profile)
+###
 
-## 💻 Tech Stack
+<div align="left">
+  <!-- Frontend Technologies -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo" />
 
-### Languages
- ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-orange?style=flat-square&logo=swift&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux&logoColor=white)
-![C/C++](https://img.shields.io/badge/-C/C++-blue?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-purple?style=flat-square&logo=c-sharp&logoColor=white)
- ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)
-  ![Go](https://img.shields.io/badge/-Go-gray?style=flat-square&logo=go&logoColor=white)
- ![SQL](https://img.shields.io/badge/-SQL-yellow?style=flat-square&logo=mysql&logoColor=white)
-  ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)
-  ![HTML](https://img.shields.io/badge/-HTML-red?style=flat-square&logo=html5&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
+  <!-- Backend Technologies -->
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" />
 
-### Libraries
-![Numpy](https://img.shields.io/badge/-Numpy-lightgray?style=flat-square&logo=numpy&logoColor=white)
- ![Pandas](https://img.shields.io/badge/-Pandas-white?style=flat-square&logo=pandas&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-darkblue?style=flat-square&logo=matplotlib&logoColor=white)
- ![OpenCV](https://img.shields.io/badge/-OpenCV-green?style=flat-square&logo=opencv&logoColor=white)
- ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-blue?style=flat-square&logo=scikit-learn&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-orange?style=flat-square&logo=tensorflow&logoColor=white)
+  <!-- Databases -->
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
 
-### Frameworks
- ![React.js](https://img.shields.io/badge/-ReactJs-blue?style=flat-square&logo=react&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=django&logoColor=white)
- ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask&logoColor=white)
+  <!-- Tools -->
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo" />
 
-### Cloud/Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
-![AWS DynamoDB](https://img.shields.io/badge/-DynamoDB-lightblue?style=flat-square&logo=amazon-aws&logoColor=white)
- ![AWS S3](https://img.shields.io/badge/-S3-blue?style=flat-square&logo=amazon-aws&logoColor=white)
+  <!-- Libraries and Frameworks -->
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
+</div>
 
-### Tools
- ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)
- ![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)
- ![Jira](https://img.shields.io/badge/-Jira-blue?style=flat-square&logo=jira&logoColor=white)
- ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-blue?style=flat-square&logo=elasticsearch&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=flat-square&logo=kubernetes&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion&logoColor=white)
+###
 
-## 📊 GitHub Stats
+<h2 align="left">🌐 Socials</h2>
+
+###
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/abdullathifsk/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/lathifshaik" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://twitter.com/latifshaikk" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://www.instagram.com/your_instagram" target="_blank"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://stackoverflow.com/users/your_profile" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow" /></a>
+</p>
