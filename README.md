@@ -1,56 +1,119 @@
-# hey, i’m lathif 👋
+# Hey, I’m Lathif 👋
 
-i’m a software engineer who likes building things with ai and the web.  
-most of my time goes into wiring llms into real products and shipping stuff people actually use.[page:1]
+**AI Systems Engineer | Multi-Agent Architect | Full-Stack Builder**
 
----
+I build production-ready AI systems — not demos.
 
-## what i’m into
-
-- ai + agents – llms, langchain, agentic workflows, local models with ollama.[page:1]
-- full‑stack – python, react, typescript, fastapi, node, postgres.[page:1]
-- infra – aws, docker, a bit of devops to get things from laptop → prod.[page:1]
-- community – helping founders, students, and builders use ai in practical ways.[page:1]
+Most of my work focuses on turning large language models into real, usable products.  
+I design agentic workflows, ship full-stack applications, and wire models into scalable systems that people actually use.
 
 ---
 
-## a few projects
+## 🚀 What I Work On
 
-### hurricane ai agent
-an autonomous agentic coding assistant that runs locally on ollama.[page:1]  
-it has multiple agents (coder, tester, reviewer, etc.) that plan and execute tasks together, with git, docker, pytest and more wired in.[page:1]
+### 🤖 AI Systems & Agents
+- Multi-agent architectures
+- LLM orchestration & tool use
+- LangChain pipelines
+- Local model deployment (Ollama)
+- Prompt engineering & evaluation
+- Autonomous task execution systems
 
-→ repo: `github.com/lathifshaik/Hurricane`[page:1]
+### 🧠 Full-Stack Engineering
+- Python, TypeScript, JavaScript, SQL
+- FastAPI, Node.js
+- REST APIs, microservices
+- React, Next.js
+- Postgres
 
-### zen ai @ workzen
-custom llm engine for talent evaluation and matching at an ai‑powered recruitment platform.[page:1]  
-handled candidate scoring, matching, and plugged into real products like workzen.cc and jobs.workzen.cc.[page:1]
+### ☁️ Infrastructure & Deployment
+- AWS
+- Docker
+- CI/CD pipelines
+- Production deployments
+- System design from laptop → scale
 
-### oribo
-building tools and platforms for a global founder community – events, mentorship, community infra, and ai‑powered workflows.[page:1]
-
----
-
-## stack
-
-- languages: python, typescript, javascript, sql.[page:1]
-- backend: fastapi, node.js, rest apis, microservices.[page:1]
-- frontend: react, a bit of next.js, html/css.[page:1]
-- ai: llms, langchain, huggingface, tensorflow, cv, unsupervised learning.[page:1]
-- infra: aws, docker, ci/cd, postgresql.[page:1]
-
----
-
-## beyond code
-
-- i write a weekly newsletter called **tech crunch** – a 5‑minute read on ai, startups, and tech.[page:1]
-- i hang around melbourne/sydney meetups, workshops, and random ai events.[page:1]
+### 🌍 Community & Founders
+Helping builders and founders apply AI in practical, production-oriented ways.
 
 ---
 
-## say hi
+## 🛠 Selected Projects
 
-if you’re building something with ai or want to hack on an idea, i’m always down to chat.[page:1]
+### 🌪 Hurricane – Autonomous Coding Agent
+A local multi-agent coding system powered by Ollama.
 
-- email: `i.lathifshaik@gmail.com`[page:1]  
-- linkedin: [linkedin.com/in/lathifdev](https://www.linkedin.com/in/lathifdev/)[page:1]
+**Features:**
+- Planner / Coder / Tester / Reviewer agents
+- Git automation
+- Dockerized execution environments
+- Pytest validation loops
+- Structured memory and task coordination
+
+Built to explore autonomous software development workflows.
+
+🔗 Repo: https://github.com/lathifshaik/Hurricane
+
+---
+
+### 🧩 Zen AI @ Workzen
+Custom LLM engine for talent evaluation and intelligent candidate matching.
+
+**Built:**
+- Candidate scoring pipelines
+- Semantic matching systems
+- Recruiter-facing AI workflows
+- Production integrations with live hiring platforms
+
+Designed to move AI from experiment → real recruitment product.
+
+---
+
+### 🌐 Oribo
+Building infrastructure for a global founder community:
+- Event systems
+- Mentorship workflows
+- AI-powered automation tools
+- Community operations tooling
+
+---
+
+## 🧱 Technical Stack
+
+### Languages
+Python · TypeScript · JavaScript · SQL  
+
+### Backend
+FastAPI · Node.js · REST APIs · Microservices  
+
+### Frontend
+React · Next.js · HTML/CSS  
+
+### AI / ML
+LLMs · LangChain · HuggingFace · TensorFlow  
+Computer Vision · Unsupervised Learning  
+
+### Infrastructure
+AWS · Docker · PostgreSQL · CI/CD  
+
+---
+
+## ✍️ Beyond Code
+
+I write a weekly newsletter: **Tech Crunch**  
+A 5-minute read on AI, startups, and emerging tech.
+
+I’m usually around Melbourne & Sydney AI meetups, workshops, and builder events.
+
+---
+
+## 🤝 Let’s Build
+
+If you're building something with AI — or thinking about it — I’m always open to collaborating.
+
+📩 Email: i.lathifshaik@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/lathifdev
+
+---
+
+_Always building. Always shipping._
