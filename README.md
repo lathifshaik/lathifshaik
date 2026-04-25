@@ -1,119 +1,112 @@
-# Hey, I’m Lathif 👋
+<div align="center">
 
-**AI Systems Engineer | Multi-Agent Architect | Full-Stack Builder**
+```
+██╗      █████╗ ████████╗██╗  ██╗██╗███████╗
+██║     ██╔══██╗╚══██╔══╝██║  ██║██║██╔════╝
+██║     ███████║   ██║   ███████║██║█████╗  
+██║     ██╔══██║   ██║   ██╔══██║██║██╔══╝  
+███████╗██║  ██║   ██║   ██║  ██║██║██║     
+╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝     
+```
 
-I build production-ready AI systems — not demos.
+### `< I'm Lathif />` — Software Engineer · I build everything.
 
-Most of my work focuses on turning large language models into real, usable products.  
-I design agentic workflows, ship full-stack applications, and wire models into scalable systems that people actually use.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abdullathifshaik-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullathifshaik)
+[![Location](https://img.shields.io/badge/📍-Sydney,_Australia-1a1a2e?style=flat-square)](https://github.com/abdullathifshaik)
+[![Status](https://img.shields.io/badge/Status-Open_to_Work-00d084?style=flat-square)](https://linkedin.com/in/abdullathifshaik)
 
----
-
-## 🚀 What I Work On
-
-### 🤖 AI Systems & Agents
-- Multi-agent architectures
-- LLM orchestration & tool use
-- LangChain pipelines
-- Local model deployment (Ollama)
-- Prompt engineering & evaluation
-- Autonomous task execution systems
-
-### 🧠 Full-Stack Engineering
-- Python, TypeScript, JavaScript, SQL
-- FastAPI, Node.js
-- REST APIs, microservices
-- React, Next.js
-- Postgres
-
-### ☁️ Infrastructure & Deployment
-- AWS
-- Docker
-- CI/CD pipelines
-- Production deployments
-- System design from laptop → scale
-
-### 🌍 Community & Founders
-Helping builders and founders apply AI in practical, production-oriented ways.
+</div>
 
 ---
 
-## 🛠 Selected Projects
-
-### 🌪 Hurricane – Autonomous Coding Agent
-A local multi-agent coding system powered by Ollama.
-
-**Features:**
-- Planner / Coder / Tester / Reviewer agents
-- Git automation
-- Dockerized execution environments
-- Pytest validation loops
-- Structured memory and task coordination
-
-Built to explore autonomous software development workflows.
-
-🔗 Repo: https://github.com/lathifshaik/Hurricane
+```javascript
+const lathif = {
+  name:       "Abdul Lathif Shaik",
+  role:       "Software Engineer",
+  location:   "Sydney, Australia 🇦🇺",
+  building:   ["web apps", "AI systems", "no-code platforms", "things that ship"],
+  available:  true,
+};
+```
 
 ---
 
-### 🧩 Zen AI @ Workzen
-Custom LLM engine for talent evaluation and intelligent candidate matching.
+## ⚡ What I Do
 
-**Built:**
-- Candidate scoring pipelines
-- Semantic matching systems
-- Recruiter-facing AI workflows
-- Production integrations with live hiring platforms
+I design and build full-stack systems end-to-end — from the database schema to the UI pixel. Whether it's a React frontend, a Python AI pipeline, or a Bubble.io automation, I own it top to bottom.
 
-Designed to move AI from experiment → real recruitment product.
+- 🧠 **AI Engineering** — LLM-powered RAG pipelines, AI coding assistants, chatbot integrations
+- ⚙️  **Full-Stack Development** — React · Node.js · Python · REST APIs
+- 🔧 **No-Code / Low-Code** — Bubble.io · Xano · automation at scale
+- 🚀 **Founder** — building OceanAlt, a web dev & AI integration agency
 
 ---
 
-### 🌐 Oribo
-Building infrastructure for a global founder community:
-- Event systems
-- Mentorship workflows
-- AI-powered automation tools
-- Community operations tooling
+## 🛠 Tech Stack
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Bubble.io](https://img.shields.io/badge/Bubble.io-0000FF?style=for-the-badge&logo=bubble&logoColor=white)
+
+</div>
 
 ---
 
-## 🧱 Technical Stack
+## 🚀 Projects I've Built
 
-### Languages
-Python · TypeScript · JavaScript · SQL  
-
-### Backend
-FastAPI · Node.js · REST APIs · Microservices  
-
-### Frontend
-React · Next.js · HTML/CSS  
-
-### AI / ML
-LLMs · LangChain · HuggingFace · TensorFlow  
-Computer Vision · Unsupervised Learning  
-
-### Infrastructure
-AWS · Docker · PostgreSQL · CI/CD  
+| Project | What it does | Stack |
+|---|---|---|
+| 🤖 **Hurricane AI Coding Assistant** | LLM-powered dev assistant that accelerates coding workflows with contextual intelligence | Python · OpenAI API |
+| 📚 **LLM-Powered RAG System** | End-to-end retrieval-augmented generation pipeline — chunk, embed, retrieve, respond | Python · Vector DB · LangChain |
+| 🔗 **EventConnectHQ** | Live startup platform connecting event professionals with clients | React · Node.js |
+| 🌐 **Oribo.org** | Active platform — full product lifecycle from schema design to deployment | Full-Stack |
 
 ---
 
-## ✍️ Beyond Code
+## 📊 GitHub Stats
 
-I write a weekly newsletter: **Tech Crunch**  
-A 5-minute read on AI, startups, and emerging tech.
+<div align="center">
 
-I’m usually around Melbourne & Sydney AI meetups, workshops, and builder events.
+![Lathif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullathifshaik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullathifshaik&layout=compact&theme=tokyonight&hide_border=true)
 
----
-
-## 🤝 Let’s Build
-
-If you're building something with AI — or thinking about it — I’m always open to collaborating.
-
-📩 Email: i.lathifshaik@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/lathifdev
+</div>
 
 ---
 
-_Always building. Always shipping._
+## 🧩 Currently
+
+```bash
+$ git status
+> Shipping full-stack projects at OceanAlt
+> Open to software engineering roles in Sydney
+> Building: AI-integrated web systems
+> Reading: distributed systems design
+```
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+If you're building something ambitious and need an engineer who can own it — **let's talk**.
+
+[![LinkedIn](https://img.shields.io/badge/Hit_me_up_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullathifshaik)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>⚡ Engineered in Sydney · Shipped worldwide</sub>
+</div>
