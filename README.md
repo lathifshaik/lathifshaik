@@ -12,13 +12,6 @@
 
 <img src="assets/toolkit.svg" width="100%" alt="Toolkit: Python, TypeScript, LangChain, FastAPI, OpenAI, Node.js, React, Next.js, PostgreSQL, AWS, Docker, Swift, HuggingFace, RAG, evals, agents. Currently: building Relay (YC application in progress), shipping Oribo, writing the AIToday newsletter, open to AI Engineer roles in AU and SF." />
 
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=lathifshaik&show_icons=true&count_private=true&hide_border=false&border_radius=20&bg_color=FBF7EC&title_color=F5533B&text_color=111111&icon_color=4E8FE6&border_color=DFD9CB" width="54%" alt="Lathif's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lathifshaik&layout=compact&hide_border=false&border_radius=20&bg_color=FBF7EC&title_color=F5533B&text_color=111111&border_color=DFD9CB" width="42%" alt="Lathif's top languages" />
-
-<br /><br />
-
 <img src="assets/contact.svg" width="100%" alt="Let's create something great! Have a project in mind? Contact me: hello@lathif.dev, lathif.dev, LinkedIn in/abdullathifshaik, Instagram @lathifdev. Sydney, Australia." />
 
 <br /><br />
